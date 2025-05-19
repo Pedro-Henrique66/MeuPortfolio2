@@ -222,3 +222,7 @@
     transform: translateY(30rem);
     transition: 0.5s ease;
 }
+
+.portfolio-box:hover .portfolio-layer {
+    transform: translateY(0);
+}
